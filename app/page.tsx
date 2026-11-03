@@ -15,7 +15,7 @@ export default function Home() {
       </p>
 
       <h1 style={{ fontSize: "clamp(48px, 9vw, 110px)" }}>
-        Hi, I'm Ashish.
+        Hi, Im Ashish.
       </h1>
 
       <h2 style={{ color: "#aaa" }}>
