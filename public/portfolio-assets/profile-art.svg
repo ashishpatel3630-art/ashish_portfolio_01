@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="780" viewBox="0 0 640 780" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="30" x2="550" y2="750"><stop stop-color="#1C2328"/><stop offset="1" stop-color="#101416"/></linearGradient>
+    <linearGradient id="metal" x1="150" y1="150" x2="490" y2="590"><stop stop-color="#E5DED0"/><stop offset=".5" stop-color="#87939A"/><stop offset="1" stop-color="#52636D"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#B8C4C9" stop-opacity=".2"/><stop offset="1" stop-color="#B8C4C9" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="640" height="780" rx="30" fill="url(#bg)"/>
+  <circle cx="324" cy="344" r="260" fill="url(#halo)"/>
+  <rect x="66" y="68" width="508" height="644" rx="18" stroke="#C8D0D2" stroke-opacity=".25"/>
+  <rect x="88" y="90" width="464" height="600" rx="12" stroke="#C8D0D2" stroke-opacity=".45" stroke-dasharray="5 9"/>
+  <path d="M120 390h400M320 190v400" stroke="#AAB6B9" stroke-opacity=".11"/>
+  <circle cx="320" cy="390" r="144" stroke="url(#metal)" stroke-opacity=".56" stroke-width="1.5"/>
+  <circle cx="320" cy="390" r="108" stroke="#BFC9CB" stroke-opacity=".28"/>
+  <circle cx="320" cy="390" r="72" stroke="#BFC9CB" stroke-opacity=".18" stroke-dasharray="3 8"/>
+  <path d="M218 296 320 390l103-112M218 484l102-94 103 112M320 246v288M175 390h290" stroke="#CBD4D4" stroke-opacity=".38"/>
+  <circle cx="218" cy="296" r="8" fill="#D9DFDC"/><circle cx="423" cy="278" r="6" fill="#9FAEAF"/><circle cx="218" cy="484" r="6" fill="#9FAEAF"/><circle cx="423" cy="502" r="8" fill="#D9DFDC"/>
+  <circle cx="320" cy="390" r="25" fill="#C7D1D1" fill-opacity=".12" stroke="#D6DEDD" stroke-opacity=".7"/>
+  <path d="M309 390h22m-11-11v22" stroke="#E7E5DC" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M112 634h416" stroke="#C8D0D2" stroke-opacity=".2"/>
+  <text x="320" y="658" fill="#D9E0DF" font-family="Arial,sans-serif" font-size="11" letter-spacing="3" text-anchor="middle">ADD APPROVED PORTRAIT</text>
+  <text x="320" y="746" fill="#88969A" font-family="Arial,sans-serif" font-size="10" letter-spacing="3" text-anchor="middle">REPLACEABLE IDENTITY DISPLAY</text>
+</svg>
